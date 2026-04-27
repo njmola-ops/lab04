@@ -79,3 +79,13 @@ audio {color: rgb(122, 130, 173);
     font-size: medium;
     border: 3px;border-style:groove; border-color: blueviolet;
 }
+
+#homebutton {
+    background-color: #00ff2a;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: large;
+  border: 3px;
+  border-style: groove;
+  margin-top: 30px;
+  
+}
